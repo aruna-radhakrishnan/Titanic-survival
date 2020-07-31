@@ -1,2 +1,1 @@
-# Titanic-survival
-Titanic Survival Prediction
+# Heroku-Demo
